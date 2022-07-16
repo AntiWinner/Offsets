@@ -5,6 +5,8 @@
 
 namespace offsets
 {
+    constexpr uintptr_t GameObjectManager = 0x17FFD28; // Unknown
+    
     namespace PhysicalValue
     {
         constexpr uintptr_t Current = 0x48; // Single
