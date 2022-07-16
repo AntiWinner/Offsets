@@ -2,6 +2,7 @@
 #define $OFFSETS
 #include <Windows.h>
 
+
 namespace offsets
 {
     namespace PhysicalValue
@@ -259,5 +260,6 @@ namespace structs
         r_hand = 94
     };
 }
+
 
 #endif // !$OFFSETS
