@@ -20,7 +20,7 @@ namespace offsets
     namespace Entity 
     {
         uintptr_t heldEntity = 0x88;
-        uintptr_t baseProjectile = 0x90;
+        uintptr_t baseProjectile = 0x90; 
     }
 
     namespace BaseProjectile 
